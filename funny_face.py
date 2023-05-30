@@ -1,4 +1,5 @@
 import cv2
+import numpy as np
 
 # Load the pre-trained face detection classifier
 face_cascade = cv2.CascadeClassifier(
